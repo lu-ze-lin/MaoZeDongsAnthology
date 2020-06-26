@@ -1,2 +1,2 @@
 # MaoZeDongsAnthology
-毛泽东选集
+毛泽东选集chm版
